@@ -14,6 +14,8 @@ An automated evaluation setup.
 
 A conceptual write-up on agent behavior and design choices.
 
+The project is live at : https://fastapi-agent-production.up.railway.app/docs#/default/agent_endpoint_agent_post
+
 📁 Project Structure
 
 
